@@ -10,7 +10,7 @@ namespace StackLayoutExercise2
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Photograpther();
         }
 
         protected override void OnStart()
